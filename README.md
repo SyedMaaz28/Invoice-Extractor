@@ -1,4 +1,4 @@
-# Invoice Extractor using GenAI with Gemini Models
+# Invoice Extractor using GenAI with Gemini Models  🧾
 
 # Overview
 
