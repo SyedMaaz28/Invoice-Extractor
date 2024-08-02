@@ -1,0 +1,13 @@
+prefix=/Users/syedmaaz/MAIN/STUDY/GEN AI/Invoice Extractor/venv
+exec_prefix=/Users/syedmaaz/MAIN/STUDY/GEN AI/Invoice Extractor/venv
+libdir=/Users/syedmaaz/MAIN/STUDY/GEN AI/Invoice Extractor/venv/lib
+sharedlibdir=/Users/syedmaaz/MAIN/STUDY/GEN AI/Invoice Extractor/venv/lib
+includedir=/Users/syedmaaz/MAIN/STUDY/GEN AI/Invoice Extractor/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
